@@ -1,0 +1,23 @@
+/* Write your CSS here */
+#padding{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.h{
+    background-color:purple;
+
+}
+.m{
+    background-color:blue;
+    display:inline-block;
+
+}
+.y{
+    background-color:purple;
+    display:inline-block;
+    
+}
+.l{
+    margin-right:2%;
+}
