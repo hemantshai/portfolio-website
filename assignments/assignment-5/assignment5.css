@@ -1,0 +1,43 @@
+
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap');
+body{
+    font-family:sans-serif;
+    padding-left:3%;
+    padding-right:3%;
+}
+
+.underline{
+     border-bottom:2px solid skyblue;
+}
+
+.details{
+    
+    font-weight:bold;
+    font-size:110%;
+    margin-bottom:5%;
+}
+
+.center{
+    margin-top:70px;
+    color:blue;
+    text-align:center;
+    font-weight:bold;
+    font-size:150%;
+    margin-bottom:30px;
+    
+}
+img{
+    height:12%;
+    width:12%;
+    margin-bottom:20px;
+}
+.right{
+    
+    display:inline-block;
+    margin-right:4%;
+}
+.left{
+    margin-left:9%;
+    
+}
