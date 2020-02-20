@@ -1,0 +1,44 @@
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+body{
+    font-family:'Noto Sans KR',Sans-serif;
+}
+
+.underline{
+     border-bottom:2px solid skyblue;
+   
+}
+.padding{
+    padding:20px;
+}
+.margin{
+    margin-bottom:40%;
+}
+.title{
+    display:inline-block;
+    width:25.3%;
+    background-color:white;
+    margin-right:3%;
+    padding-left:3%;
+    padding-right:3%; 
+    border-radius:20px;
+
+}
+
+.title2{
+    display:inline-block;
+    width:25.3%;
+    background-color:white;
+    padding-left:3%;
+    padding-right:3%; 
+    border-radius:20px;
+
+}
+h1{
+    color:skyblue;
+}
+h2{
+    color:grey;
+    margin-top:-6%;
+    margin-bottom:15%;
+}
