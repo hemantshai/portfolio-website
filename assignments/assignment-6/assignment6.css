@@ -6,7 +6,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 body{
     background-color:#f0f2f2;
-    padding:15px;
     font-family:Roboto;
 }
 h1{
@@ -40,7 +39,7 @@ h1{
      height:20px;
      display:inline-block;
      border-radius:20px;
-    padding:7px;
+    padding:6.5px;
     margin-right:12px;
     color:grey;
     font-weight:bold;
@@ -57,7 +56,7 @@ h1{
 }
 .comingsoon{
     color:grey;
-    padding-left:58px;
+    padding-left:63px;
     font-size:12px;   
     margin-top:-2px;
     margin-bottom:50px;
@@ -70,24 +69,22 @@ h1{
     border-left:4px solid #00bfff;
     display:inline-block;
     height:20px;
-    width:280px;
+    width:270px;
     padding:10px;
     border-radius:5px;
     background-color:white;
     margin-bottom:27px;
-    
 }
 
 .dev1{
     display:inline-block;
     border-left:4px solid #cccccc;
     height:20px;
-    width:280px;
+    width:270px;
     padding:10px;
     border-radius:5px;
     background-color:white;
     margin-bottom:27px;
-    
 }
 
 .join{
