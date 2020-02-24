@@ -4,7 +4,7 @@ body{
     font-family:Roboto;
     background-color:#F0F2F2;
     background-image:url(assets/bg-image.jpg); 
-    background-size:100% 93%;
+    background-size:100vw 630px;
     background-attachment:fixed;
     background-repeat:no-repeat;
 
@@ -44,8 +44,8 @@ p
     border-radius:65px;
     width:930px;
     padding:4px;
-    margin-top:145px;
-    margin-left:12px;
+    margin-top:148px;
+    margin-left:11px;
 }
 li{
     display:inline-block;
