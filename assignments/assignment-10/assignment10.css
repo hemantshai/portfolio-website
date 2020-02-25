@@ -1,0 +1,18 @@
+/* Write your CSS here */
+*{
+    border:1px solid red;
+}
+.img{
+    height:350px;
+    width:527px;
+    background-image:url(assets/rabbit.jpeg);
+    background-size:cover;
+    padding:38px;
+}
+.frame{
+    height:250px;
+    width:250px;
+    border:23px solid orange;
+    margin-top:12px; 
+    margin-left:135px;
+}
