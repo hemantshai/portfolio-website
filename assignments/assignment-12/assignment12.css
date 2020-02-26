@@ -1,0 +1,22 @@
+.align1{
+    background-color:grey;
+    border-radius:8px;
+    font-weight:400;
+    font-size:20px;
+    text-align:center;
+    padding:20px;
+    margin-top:15px;
+}
+footer{
+    background-color:dodgerblue;
+    width:110px;
+    text-align:center;
+    padding:2px;
+    border-radius:4px;
+    margin-top:10px;
+    color:white;
+}
+p{
+    
+    margin-top:8px;
+}
