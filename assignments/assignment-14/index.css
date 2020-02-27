@@ -1,0 +1,13 @@
+.subtitle{
+    font-size:27px;
+}
+h1{
+    font-weight:500;
+}
+.d-md-block{
+    background-color:lightgrey;
+    margin-left:15px;
+}
+.md{
+    margin-left:-15px;
+}

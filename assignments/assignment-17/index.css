@@ -1,0 +1,41 @@
+
+.h1small{
+    text-align:center;
+    font-size:32px;
+}
+.h1med{
+    text-align:center;
+    font-size:36px;
+}
+.h1lar{
+    text-align:center;
+    font-size:40px;
+}
+
+.h2small{
+    font-size:24px;
+}
+.h2med{
+    font-size:28px;
+}
+.h2lar{
+    font-size:32px;
+}
+
+.psmall{
+    color:black;
+    text-align:left;
+    font-size:14px;
+}
+.pmed{
+    color:gray;
+    text-align:left;
+    font-size:16px;
+    
+}
+
+.plar{
+    color:blue;
+    text-align:left;
+    font-size:18px;
+}
