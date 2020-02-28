@@ -1,0 +1,56 @@
+
+.footer{
+ color:grey;
+ margin-left:-40px;
+}
+.header{
+ display:inline;
+}
+.cost{
+ font-size:33px;
+ font-weight:250;
+}
+.text{
+ color:lightgrey;
+ font-weight:500;
+ font-size:25px;
+}
+.center{
+ text-align:center;
+}
+.small{
+ margin-bottom:20px;
+}
+.larhead{
+ text-align:left;font-size:20px;padding-top:2px;
+}
+.larheadspacing{
+ padding-right:35px;padding-top:10px;padding-left:20px;
+}
+.smallheadspacing{
+ font-size:20px;padding-top:2px;padding-bottom:2px;
+}
+.right{
+ text-align:right;
+}
+.content{
+ padding:20px;
+}
+.button{
+ padding-top:10px;
+}
+figure{
+ background-color:#7a0099;
+ height:40px;
+ width:40px;
+ border-radius:5px;
+ color:white;
+padding-left:10px;
+}
+.copyright{
+ font-size:13px;
+ color:gray;
+}
+.footerspacing{
+ margin-top:35px;
+}
