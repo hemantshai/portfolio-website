@@ -1,0 +1,37 @@
+
+a{
+    font-size:14px;
+}
+.github_logo{
+    -webkit-filter:invert(100%); 
+}
+.navbar-toggler-icon{
+    color: blue;
+}
+.button{
+    background-color:black;
+    color:white;
+    border:1px solid white;
+    border-radius:5px;
+    padding:5px 15px 5px 15px;
+    margin-top:7px;
+}
+.black{
+    background-color:black; 
+}
+.white{
+    color:white!important;
+}
+.padding0{
+    padding:0px;
+}
+.grey{
+    color:grey;
+}
+
+.center{
+    text-align:center;
+}
+.inlinelist{
+    display:inline-block;
+}

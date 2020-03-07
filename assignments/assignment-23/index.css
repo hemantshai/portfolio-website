@@ -1,0 +1,121 @@
+.container{
+    padding:15px;
+}
+.gmailpic1{
+    height:22px;
+    
+}
+.gmailgrey{
+    color:grey;
+    font-weight:400;
+    font-size:20px;
+    margin-top:5px;
+}
+.getgmail{
+    font-weight:400;
+}
+.grey{
+    color:grey;
+}
+.workright{
+     text-align:right;   
+     margin-top:7px;
+}
+.signincenter{
+    text-align:center;
+    margin-top:7px;
+}
+.center{
+    text-align:center;
+}
+.left{
+    text-align:left;
+}
+.right{
+    text-align:right;
+}
+.landingimgmob{
+    height:400px;
+}
+.landingimgdesk{
+    height:350px;
+    width:100%;
+
+}
+.buttonpadding{
+    padding:10px;
+}
+.storeimg{
+    height:40px;
+    width:170px;
+}
+.expimgsmall{
+    height:170px;
+    width:100%;
+}
+.expimgmed{
+    height:380px;
+    width:100%;
+}
+.stayorganisedmed{
+    width:108%;
+}
+
+.stayorganisedmob{
+    height:400px;
+    width:100%;
+    margin-bottom:-36px;
+}
+.paddingorganisedmed{
+    padding-top:34px;
+}
+.takeactionimg{
+    height:120px;
+    width:100%;
+    padding-top:12px;
+}
+.avoidsuspmed{
+    height:150px;
+    width:100%;
+}
+.paddingavoidsuspmed{
+    padding-top:100px;
+    padding-bottom:100px;
+}
+.avoidsuspmob{
+    height:490px;
+    width:100%;
+    margin-bottom:-12px;
+}
+.organisedmed{
+    height:100%;
+}
+.gmailpic2{
+    height:47px;
+}
+.google{
+    color:grey;
+}
+li{
+    display:inline-block;
+    color:grey;
+    margin-right:13px;
+    font-size:14px;
+}
+a{
+    color:black;
+}
+.dropdown-toggle{
+    margin-top:-5px;
+}
+ul{
+    list-style-type:none;
+    
+}
+.padding0{
+    padding:0px;
+    
+}
+.helpspacing{
+    margin-left:25px; 
+}
