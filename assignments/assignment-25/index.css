@@ -1,0 +1,73 @@
+*{
+    border:1px solid red;
+}
+.b_icon{
+    height:20px;
+}
+.headers{
+    color:blue;
+}
+.white_Text{
+    color:white; 
+}
+.grey_text{
+    color:grey;
+}
+.text_Right{
+    text-align:right;
+}
+.background_image{
+    width:100%;
+    height:600px;
+    background-size:cover; 
+    background-repeat:no-repeat;
+    background-image:url(assets/background.jpg); 
+}
+.black_Image{
+    background-color:#00000060;
+    height:100%;
+    
+}
+.profile_img{
+    margin-top:190px;
+    height:100px;
+    width:100px;
+    border-radius:30px;
+    background-size:cover;
+    background-repeat:no-repeat;
+ 
+}
+.card_Spaces{
+    padding:6px;
+}
+.text_Center{
+text-align:center;
+}
+.center_Buttons{
+    margin-top:15px;
+    text-align:center;
+    margin-bottom:15px;
+}
+.cards_Margin{
+    margin-bottom:10px;
+}
+.social_icons{
+    height:20px;
+}
+.paragraph_spaces{
+    padding-bottom:10px;
+}
+.footer_border{
+    width:100%;
+    border-top:1px solid #dcdcdc;
+    padding:14px 0px 10px 0px;
+    
+}
+.content_Spacings{
+    margin-bottom:30px;
+    margin-top:20px;
+}
+.padding_h{
+    padding-top:20px;
+    padding-bottom:20px;
+}

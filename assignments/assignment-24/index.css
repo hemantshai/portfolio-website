@@ -35,3 +35,151 @@ a{
 .inlinelist{
     display:inline-block;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.signup_button{*/
+/*    background-color:black;*/
+/*    color:white;*/
+/*    border:1px solid white;*/
+/*    border-radius:5px;*/
+/*    padding:5px 15px 5px 15px;*/
+/*    margin-top:7px;*/
+/*}*/
+/*.position{*/
+/*    text-align:right;*/
+/*    margin-top:3px;*/
+/*}*/
+/*.navbar-toggler-icon{*/
+/*    height:30px;*/
+/*    width:30px;*/
+}
+li{
+    display:inline-block;
+}
+/*.LargeScreenItems{*/
+/*    padding:0px;*/
+/*}*/
+/*.LargeScreenItem{*/
+/*    margin-left:10px;*/
+/*}*/
+/*.LargeScreenItemLast{*/
+/*    margin-left:30px;*/
+/*}*/
+/*a{*/
+/*    color:white;*/
+/*}*/
+ul{
+    list-style-type:none;
+}
+.dropdown_position{
+    margin-top:8px;
+}
+.ExplorePosition{
+    text-align:center;
+}
+.ExploreItems{
+    text-align:center;
+}
+.listItems{
+    margin-right:15px;
+}
+.image{
+    height:70px;
+    width:80px;
+}
+.card-body{
+    text-align: center;
+}
+.space{
+    padding:20px;
+}
+.button{
+    background-color:#333333;
+    border-color:#333333;
+    opacity:0.7;
+}
+.color{
+    background-color:#333333;
+    border:1px solid white;
+    color:white;
+}
+.topicProperties{
+    border-bottom:2px solid #3399ff;
+}           
+.exploreItems{
+    text-align:center;
+}
+.explore{
+    padding-top:20px;
+    border-bottom:1px solid #dcdcdc;
+    padding-left:-20px;
+}
+.headingSpaces{
+    height:40px;
+}
+.background{
+    background-color:#f0f8ff;
+    border-bottom:1px solid #dcdcdc;
+    text-align: center;
+}
+.hashtag{
+    height:60px;
+    width:60px;
+    background-color:#f0f8ff;
+    text-align:center;
+    padding-top:16px;
+    border-radius:3px;
+    font-size:17px;
+}
+.logos{
+    height:60px;
+    width:60px;
+}
+.star_button{
+    border-radius:4px;
+    background-color:#dcdcdc;
+    padding:4px 10px 4px 10px;
+}
+.features_heading{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.star{
+    padding:0px;
+}
+.load{
+    color:#3399ff;
+    font-weight:bold;
+    padding-top:12px;
+}
+.load_position{
+    text-align:center;
+}
+span{
+    background-color:#e6f2ff;
+    color:#1a88ff;
+    font-size:11px;
+    padding:4px 8px 4px 8px;
+}
+.popular_topics{
+    padding:0px;
+    margin-top:5px;
+}
+.popular_topics_heading{
+    margin-top:40px;
+}
+.nav_bar{
+    padding:0px;
+}
