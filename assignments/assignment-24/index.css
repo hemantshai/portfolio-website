@@ -1,12 +1,9 @@
 
 a{
-    font-size:14px;
+    font-size:15px;
 }
 .github_logo{
     -webkit-filter:invert(100%); 
-}
-.navbar-toggler-icon{
-    color: blue;
 }
 .button{
     background-color:black;
@@ -22,9 +19,6 @@ a{
 .white{
     color:white!important;
 }
-.padding0{
-    padding:0px;
-}
 .grey{
     color:grey;
 }
@@ -32,20 +26,6 @@ a{
 .center{
     text-align:center;
 }
-.inlinelist{
-    display:inline-block;
-}
-
-
-
-
-
-
-
-
-
-
-
 
 
 

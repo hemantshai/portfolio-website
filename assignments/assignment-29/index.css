@@ -1,0 +1,107 @@
+body {
+    padding: 5px 5px 0px 5px;
+}
+/**{*/
+/*    box-sizing:border-box;*/
+/*    padding:0px;*/
+/*    margin:0px;*/
+/*}*/
+h1 {
+    text-align: center;
+}
+
+@media (max-width:576px) {
+    .card {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 32px;
+    }
+    h2 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 14px;
+    }
+}
+
+@media (min-width:577px) {
+    .card {
+        display: inline-block;
+        padding: 0px 5px 5px 25px;
+    }
+    h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    p {
+        font-size: 16px;
+    }
+
+    .creatingForce {
+        display: inline-block;
+        width: 50%;
+        text-align: left;
+        vertical-align:top;
+    }
+    .globalStartup {
+        display: inline-block;
+        width: 49%;
+        text-align: left;
+    }
+    .appTech {
+        display: inline-block;
+        width: 50%;
+        text-align: left;
+        vertical-align:top;
+    }
+    .worldProducts {
+        display: inline-block;
+        width: 49%;
+        text-align: left;
+    }
+}
+
+@media (min-width:992px) {
+    .card {
+        display: inline-block;
+        padding: 0px 5px 5px 25px;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    p {
+        font-size: 18px;
+    }
+    .textColour {
+        color: blue;
+    }
+    .appTech {
+        display: none;
+    }
+
+    .creatingForce {
+        display: inline-block;
+        width: 33.333%;
+        text-align: left;
+        vertical-align:top;
+    }
+    .globalStartup {
+        display: inline-block;
+        width: 33.33%;
+        text-align: left;
+        vertical-align:top;
+
+    }
+    .worldProducts {
+        display: inline-block;
+        width: 32%;
+        text-align: left;
+
+    }
+}

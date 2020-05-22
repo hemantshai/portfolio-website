@@ -15,7 +15,7 @@ body{
     text-align:center;
 }
 .largecard{
-    padding:20px;
+    padding:12px;
 }
 .spaces{
     padding:20px;
@@ -41,6 +41,6 @@ font-weight:bold;
     padding-top:95px;
 }
 img{
-    height:60px;
-    width:60px;
+    height:50px;
+    /*width:40px;*/
 }
